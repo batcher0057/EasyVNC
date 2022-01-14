@@ -1,6 +1,6 @@
 # EasyVNC
 
-Ce projet a pour but d'automatiser une connexion de type "bureau à distance" vers un pc distant au travers d'un tunnel SSH.
+Ce projet a pour but d'automatiser une connexion de type "bureau à distance" au travers d'un tunnel SSH.
 
 L'avantage par rapport à une connexion VNC classique est double : le premier est que la communication est entièrement sécurisée/chiffrée par le protocole SSH, le second est qu'il n'y a aucune configuration réseau (port spécifique à rediriger au niveau de la box et dans le pare-feu de l'ordinateur) à effectuer que ce soit côté serveur ou bien côté client.
 
